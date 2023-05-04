@@ -2,6 +2,8 @@
 
 This is a simple web application that allows users to summarize online articles quickly and easily. It uses the Article Extractor and Summarizer API to extract the content of an article and then generate a summary of it.
 
+The deployed application can be found [here](https://main--effortless-sherbet-200727.netlify.app/)
+
 ## Motivation
 
 The Article Extractor and Summarizer is a simple yet powerful web application that showcases the capabilities of modern web development tools and technologies. By using React, Tailwind CSS, and the Article Extractor and Summarizer API, we were able to create a fast, responsive, and easy-to-use app that helps users extract the most important information from online articles.
